@@ -1,0 +1,36 @@
+.row{   
+
+    background-color:#B9B0BA;
+    color:white;
+    font-size:20px;
+    display: flex;
+    justify-content: space-around;
+}
+.headshot{
+    width:20%;
+}
+.mid{
+    background-color:#B9B0BA;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px white;   
+}
+
+h1 {
+    text-align: center;
+    color:white;
+}
+
+body {
+    background: #B9B0BA;
+}
+.headshot {
+    width: 460px;
+    height: 250px;
+    alignment-baseline: central;
+}
