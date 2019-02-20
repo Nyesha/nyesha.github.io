@@ -1,6 +1,6 @@
 .row{   
 
-    background-color:#B9B0BA;
+    background-color:#D7DBF9;
     color:white;
     font-size:20px;
     display: flex;
@@ -11,7 +11,7 @@
     
 }
 .mid{
-    background-color:#B9B0BA;
+    background-color:#D7DBF9;
     color:black;
     align-items:center;
     font-size:50px;
@@ -28,7 +28,7 @@ h1 {
 }
 
 body {
-    background: #B9B0BA;
+    background: #D7DBF9;
        font-family: 'Oswald', sans-serif;
 }
 .headshot {
@@ -41,4 +41,9 @@ p {
     font-size: 25px;
     color: white; 
     font-family: 'Oswald', sans-serif;
+}
+
+a {
+    display: flex;
+    justify-content: center;
 }
